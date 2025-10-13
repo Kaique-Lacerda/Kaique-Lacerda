@@ -9,8 +9,7 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png" width="100">  <img src="./img/JavaScript.png" width="100"> <img src="./img/Python.png" width="100"> <img src="./img/React.png" width="100"> <img src="./img/Canva.png" width="100">
-CANVA.
+<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png" width="100">  <img src="./img/JavaScript.png" width="100"> <img src="./img/Python.png" width="100"> <img src="./img/React.png" width="100"> <img src="./img/Canva.png" width="100"><img src="./img/VsCode.png" width="100">
 VSCODE.
 MYSQL.
 GOOGLE COLAB.
