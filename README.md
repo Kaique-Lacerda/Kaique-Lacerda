@@ -3,7 +3,7 @@
 💻 Estudante do Técnico em Desenvolvimento de Sistemas.   
 🎯 Sempre em busca de novos conhecimentos.  
 🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.  
-👥 Co-criadordo projeto **DevAssist**.  
+👥 Co-criador do projeto **DevAssist**.  
 
 <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
@@ -32,4 +32,5 @@
 
 
 🚀 **Meta atual:** Melhorar minhas habilidades atuais e adquirir novas!
+
 
