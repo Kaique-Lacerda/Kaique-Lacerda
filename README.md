@@ -9,7 +9,7 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-<img src="./img/HTML5 (650 x 450 px).png"width="300">HTML/CSS.
+<img src="./img/HTML5 (650 x 450 px).png" width="300">HTML/CSS.
 JAVA.
 JAVASCRIPT.
 REACT-NATIVE.
