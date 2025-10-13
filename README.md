@@ -9,8 +9,7 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-<img src="./img/HTML5 (650 x 450 px).png" width="100">
-<img src="./img/HTML5 (650 x 450 px) (2).png" width="100">
+<img src="./img/HTML5 (650 x 450 px).png" width="100"> <img src="./img/HTML5 (650 x 450 px) (2).png" width="100">
 JAVASCRIPT.
 REACT-NATIVE.
 PYTHON.
