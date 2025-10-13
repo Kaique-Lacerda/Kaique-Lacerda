@@ -9,7 +9,7 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png.png" width="100"> <img src="./img/JavaScript.png.png" width="100"> <img src="./img/Python.png.png" width="100">  
+<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png" width="100">  <img src="./img/JavaScript.png" width="100"> <img src="./img/Python.png" width="100"> 
 JAVASCRIPT.
 REACT-NATIVE.
 PYTHON.
