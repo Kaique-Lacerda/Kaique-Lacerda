@@ -9,10 +9,8 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png" width="100">  <img src="./img/JavaScript.png" width="100"> <img src="./img/Python.png" width="100"> 
-JAVASCRIPT.
+<img src="./img/HTML CSS.png" width="100"> <img src="./img/JAVA.png" width="100">  <img src="./img/JavaScript.png" width="100"> <img src="./img/Python.png" width="100"> <img src="./img/React.png" width="100"> 
 REACT-NATIVE.
-PYTHON.
 CANVA.
 VSCODE.
 MYSQL.
