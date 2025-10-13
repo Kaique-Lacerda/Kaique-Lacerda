@@ -9,15 +9,15 @@
 
 ## 🛠 Linguagens & Ferramentas
 
-HTML/CSS
-JAVA
-JAVASCRIPT
-REACT-NATIVE
-PYTHON
-CANVA
-VSCODE
-MYSQL
-GOOGLE COLAB
+HTML/CSS.
+JAVA.
+JAVASCRIPT.
+REACT-NATIVE.
+PYTHON.
+CANVA.
+VSCODE.
+MYSQL.
+GOOGLE COLAB.
 
 
 ## 📌 Projetos
@@ -36,6 +36,7 @@ GOOGLE COLAB
 
 
 🚀 **Meta atual:** Melhorar minhas habilidades atuais e adquirir novas!
+
 
 
 
