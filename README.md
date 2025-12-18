@@ -3,7 +3,7 @@
 🎓 Formado no Técnico em Desenvolvimento de Sistemas.  
 💻 Estudante do Tecnólogo em Desenvolvimento de Sistemas.   
 🎯 Sempre em busca de novos conhecimentos.  
-🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.   
+🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** , **MySQL** e **Língua Estrangeira**.   
 
 <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
